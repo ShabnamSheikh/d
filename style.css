@@ -1,0 +1,53 @@
+header{
+    background-color: hotpink;
+    margin-top: 0px;
+    
+    }
+.head-tag{
+      margin-top: 0px;
+    }
+    
+    
+
+body{
+    background-color: aqua;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUIumBNLC5f53cMrAX8aUuZdDioBHEVtAHhdi_Y20YCUP_MI47) ;
+    font-family: 'Walt Disney Script', arial;
+     font-size: 10px;
+    
+     
+}   
+
+h1{
+   text-align: center;
+ 
+   
+  
+   
+}
+.images{
+  background-color: rgb(73, 69, 69);
+}
+img{
+    float: left;
+    margin-left: 100px;
+    opacity: initial;
+    
+
+}
+ 
+.login{
+  float: right;
+  box-sizing: 10px;
+  font-size: 20px;
+  background-color: rgb(241, 89, 196);
+ margin-top:0;
+ margin-right:2px;
+
+}
+
+
+footer{
+    text-align: center;
+    margin-bottom: 0px;
+}
